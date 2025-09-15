@@ -45,7 +45,7 @@ Designed to demonstrate senior engineering practices and clean architecture.
 
 1. **Clone the repository**
 
-git clone https://github.com/tolmivan/OMS.git 
+git clone https://github.com/IvanTolmachov/OMS.git 
 
 cd OMS
    
